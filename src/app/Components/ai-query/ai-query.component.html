@@ -1,0 +1,25 @@
+<div class="container">
+    <h2>Ask Gemini AI</h2>
+    <div class="input-group">
+        <input
+            type="text"
+            [(ngModel)]="userQuery"
+            class="form-control"
+            placeholder="Ask your question..." />
+        <button (click)="submitQuery()" [disabled]="isLoading"
+            class="btn btn-primary">
+            Ask AI
+        </button>
+    </div>
+
+    <div *ngIf="isLoading" class="loader">Loading...</div>
+
+    <div *ngIf="errorMessage" class="error-message">
+        <strong>Error:</strong> {{ errorMessage }}
+    </div>
+
+    <div *ngIf="aiResponse" class="ai-response">
+        <h4>AI Response:</h4>
+        <p>{{ aiResponse }}</p>
+    </div>
+</div>
