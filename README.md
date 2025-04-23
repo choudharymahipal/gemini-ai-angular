@@ -40,7 +40,7 @@ Follow the steps below to clone and run the project on your local system:
 
 ## Resources
 - **GitHub Repository**: [GitHub Link](https://github.com/choudharymahipal/gemini-ai-angular.git)
-- **Medium Blog**: [Medium Blog Link](<Medium Blog Link>)
+- **Medium Blog**: [Medium Blog Link](https://medium.com/@mschoudhary81/integrating-gemini-ai-with-an-angular-application-84805c88dadd)
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or additional features.
