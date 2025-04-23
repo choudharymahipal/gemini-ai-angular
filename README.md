@@ -7,6 +7,10 @@ This project is created to test Gemini AI and integrate it with an Angular appli
 - Example use cases to demonstrate AI capabilities.
 - Easy-to-follow setup instructions.
 
+## Demo
+![Demo Screenshot](https://github.com/choudharymahipal/gemini-ai-angular/blob/56146f78a23398290e688c48ae55f7b6214f6968/src/assets/demo/Screenshot%202025-04-23%20at%202.12.46%E2%80%AFPM.png?raw=true)
+
+
 ## Getting Started
 
 Follow the steps below to clone and run the project on your local system:
